@@ -28,10 +28,3 @@ The script captures video from the default camera, processes it to identify the 
 
 ### Contributing:
 If you would like to contribute to this project, feel free to submit a pull request with your changes or enhancements. We welcome any ideas or improvements to make the media player more robust and user-friendly.
-
-### Disclaimer:
-This code is provided as-is, and the authors do not take any responsibility for any unintended consequences or issues that may arise from using this software. Users are encouraged to use the code responsibly and at their own risk.
-
----
-
-The above description and README are based on the functionality and usage of the provided code. To publish this on GitHub, you can create a new repository and upload the script (`gesture_sense_media_player.py`) along with the README. You may also want to add a license file (e.g., MIT License) and include relevant project tags and metadata.
